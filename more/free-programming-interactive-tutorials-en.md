@@ -250,6 +250,7 @@
 
 ### Kotlin
 
+* [Android Basics in Kotlin](https://developer.android.com/courses/android-basics-kotlin/course?authuser=1)
 * [Kotlin tutorial](https://kotlinlang.org/docs/tutorials/)
 * [Kotlin Tutorial](https://www.w3schools.com/kotlin/) - W3Schools
 * [Learn Kotlin](https://www.codecademy.com/learn/learn-kotlin) - Galina Podstrechnaya, Alex DiStasi (Codecademy) *(account required)*
